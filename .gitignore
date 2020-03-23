@@ -37,3 +37,4 @@ $RECYCLE.BIN/
 #gmeg
 manifest/
 .vscode/
+sfdx-out*
