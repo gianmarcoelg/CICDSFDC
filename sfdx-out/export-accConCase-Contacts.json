@@ -1,0 +1,2006 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef1"
+            },
+            "AccountId": "@AccountRef1",
+            "LastName": "GOYCOCHEA",
+            "FirstName": "ARMANDO EDILBERTO",
+            "Suffix": "OBLITAS",
+            "Birthdate": "1978-11-15",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "100",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef2"
+            },
+            "AccountId": "@AccountRef2",
+            "LastName": "FLORES",
+            "FirstName": "CESAR AUGUSTO",
+            "Suffix": "CAYO",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef3"
+            },
+            "AccountId": "@AccountRef3",
+            "LastName": "FLORES",
+            "FirstName": "LUIS ALEJANDRO",
+            "Suffix": "VILLON",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef4"
+            },
+            "AccountId": "@AccountRef4",
+            "LastName": "GUZMAN",
+            "FirstName": "MIGUEL JOSE",
+            "Suffix": "AHUMADA",
+            "MobilePhone": "997582911",
+            "Email": "guzmanahumada@hotmail.com",
+            "Birthdate": "1978-11-25",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "209",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef5"
+            },
+            "AccountId": "@AccountRef5",
+            "LastName": "FUENTES",
+            "FirstName": "SONIA OFELIA",
+            "Suffix": "DE HALLENBECK",
+            "Birthdate": "1978-11-07",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "807",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef6"
+            },
+            "AccountId": "@AccountRef6",
+            "LastName": "GAMBOA",
+            "FirstName": "CARLOS ALFREDO",
+            "Suffix": "VELASQUEZ",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef7"
+            },
+            "AccountId": "@AccountRef7",
+            "LastName": "JUAREZ",
+            "FirstName": "GUMERCINDO ORLANDO",
+            "Suffix": "ALVAREZ",
+            "Birthdate": "1978-11-07",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef8"
+            },
+            "AccountId": "@AccountRef8",
+            "LastName": "GARCIA-GODOS",
+            "FirstName": "MERCEDES",
+            "Suffix": "VDA.DE CHACON",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef9"
+            },
+            "AccountId": "@AccountRef9",
+            "LastName": "HUAMAN",
+            "FirstName": "URBANO GUALBERTO",
+            "Suffix": "RAMIREZ",
+            "Birthdate": "1978-11-30",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "100",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef10"
+            },
+            "AccountId": "@AccountRef10",
+            "LastName": "GIARDINO",
+            "FirstName": "CARLOS",
+            "Suffix": "ROMERO",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef11"
+            },
+            "AccountId": "@AccountRef11",
+            "LastName": "GAUDRY",
+            "FirstName": "HECTOR EDUARDO",
+            "Suffix": "SANCHEZ",
+            "Birthdate": "1978-11-06",
+            "Description": "Prueba - Tarjetas",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "403",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef12"
+            },
+            "AccountId": "@AccountRef12",
+            "LastName": "GALLIANI",
+            "FirstName": "MANUEL",
+            "Suffix": "DONAYRE",
+            "Birthdate": "1951-02-12",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "412",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef13"
+            },
+            "AccountId": "@AccountRef13",
+            "LastName": "GALARZA",
+            "FirstName": "LIZARDO JORGE",
+            "Suffix": "COTERA",
+            "Birthdate": "1978-11-27",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "209",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef14"
+            },
+            "AccountId": "@AccountRef14",
+            "LastName": "GAMARRA",
+            "FirstName": "JOSE ANTONIO",
+            "Suffix": "RIOJAS",
+            "MobilePhone": "985641237",
+            "Email": "jose@gmail.com",
+            "Birthdate": "1978-11-13",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "412",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef15"
+            },
+            "AccountId": "@AccountRef15",
+            "LastName": "GOMEZ",
+            "FirstName": "WILFREDO GILBERTO",
+            "Suffix": "RIOS",
+            "Birthdate": "1978-11-28",
+            "Description": "Prueba - Tarjetas",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "618",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef16"
+            },
+            "AccountId": "@AccountRef16",
+            "LastName": "CHANG",
+            "FirstName": "CESAR",
+            "Suffix": "LAI",
+            "Birthdate": "1960-08-08",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "412",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef17"
+            },
+            "AccountId": "@AccountRef17",
+            "LastName": "PAJUELO",
+            "FirstName": "MANUEL FORTUNATO",
+            "Suffix": "FLORES",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef18"
+            },
+            "AccountId": "@AccountRef18",
+            "LastName": "PALOMINO",
+            "FirstName": "MARIO RUBEN",
+            "Suffix": "SULCA",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef19"
+            },
+            "AccountId": "@AccountRef19",
+            "LastName": "CHIANG",
+            "FirstName": "ALBERTO DAVID",
+            "Suffix": "WONG",
+            "Birthdate": "1959-04-05",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "109",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef20"
+            },
+            "AccountId": "@AccountRef20",
+            "LastName": "CHING",
+            "FirstName": "JULIA ROSA",
+            "Suffix": "WONG",
+            "MobilePhone": "998888899",
+            "Email": "lbecerre@bcp.com.pe",
+            "Birthdate": "1978-11-26",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "403",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef21"
+            },
+            "AccountId": "@AccountRef21",
+            "LastName": "APONTE",
+            "FirstName": "LUIS ALBERTO",
+            "Suffix": "SANTISTEBAN",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef22"
+            },
+            "AccountId": "@AccountRef22",
+            "LastName": "PRATO",
+            "FirstName": "RENZO ALBERTO",
+            "Suffix": "ARCE",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef23"
+            },
+            "AccountId": "@AccountRef23",
+            "LastName": "CHIAPPORI",
+            "FirstName": "CARLOS ANDRES ENRIQUE",
+            "Suffix": "SAMENGO",
+            "Birthdate": "1978-11-29",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "100",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef24"
+            },
+            "AccountId": "@AccountRef24",
+            "LastName": "HUAMAN",
+            "FirstName": "JOSE ROBERTO",
+            "Suffix": "TUESTA",
+            "Birthdate": "1978-11-01",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "100",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef25"
+            },
+            "AccountId": "@AccountRef25",
+            "LastName": "HONORIO",
+            "FirstName": "JOSE EUSEBIO",
+            "Suffix": "VILLARREAL",
+            "Birthdate": "1926-12-18",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "999",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef26"
+            },
+            "AccountId": "@AccountRef26",
+            "LastName": "LUNA",
+            "FirstName": "JOSE ANTONIO",
+            "Suffix": "BAZO",
+            "Birthdate": "1945-08-26",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef27"
+            },
+            "AccountId": "@AccountRef27",
+            "LastName": "LUQUE",
+            "FirstName": "CARMEN",
+            "Suffix": "VDA.DE MEJIA",
+            "Birthdate": "1978-11-04",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef28"
+            },
+            "AccountId": "@AccountRef28",
+            "LastName": "RODRIGUEZ",
+            "FirstName": "MARIA PAZ",
+            "Suffix": "SALAZAR",
+            "MobilePhone": "999999997",
+            "Email": "tucorreo1@tu.com",
+            "Birthdate": "1986-09-01",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Mailing_phoneNumber__c": "4325678",
+            "BCP_Profession__c": "214",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef29"
+            },
+            "AccountId": "@AccountRef29",
+            "LastName": "BEDOYA",
+            "FirstName": "GERARDO ENRIQUE",
+            "Suffix": "REYES",
+            "Birthdate": "1961-05-24",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "412",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef30"
+            },
+            "AccountId": "@AccountRef30",
+            "LastName": "ROMERO",
+            "FirstName": "RAUL",
+            "Suffix": "SOLIS",
+            "Birthdate": "1982-01-01",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "116",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef31"
+            },
+            "AccountId": "@AccountRef31",
+            "LastName": "BOGGIANO",
+            "FirstName": "OSCAR GUILLERMO",
+            "Suffix": "GAGO",
+            "MobilePhone": "988888777",
+            "Email": "lbecerre@bcp.com.pe",
+            "Birthdate": "1982-01-01",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "403",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef32"
+            },
+            "AccountId": "@AccountRef32",
+            "LastName": "BELAUNDE",
+            "FirstName": "CESAR FELIX",
+            "Suffix": "DE CARDENAS",
+            "Birthdate": "1982-01-01",
+            "Description": "Prueba - Tarjetas",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "618",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef33"
+            },
+            "AccountId": "@AccountRef33",
+            "LastName": "BELLIDO",
+            "FirstName": "ALICIA",
+            "Suffix": "PRADO",
+            "MobilePhone": "957487415",
+            "Email": "mail@bcp.com.pe",
+            "Birthdate": "1950-02-01",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "214",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef34"
+            },
+            "AccountId": "@AccountRef34",
+            "LastName": "SEVILLO",
+            "FirstName": "SERAPIO",
+            "Suffix": "YAN",
+            "Birthdate": "1982-01-01",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "618",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef35"
+            },
+            "AccountId": "@AccountRef35",
+            "LastName": "BALLON",
+            "FirstName": "ERNESTO VICTOR",
+            "Suffix": "MALDONADO",
+            "Email": "prueba001@mail.com",
+            "Birthdate": "1982-01-01",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "405",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef36"
+            },
+            "AccountId": "@AccountRef36",
+            "LastName": "ECHEVARRIA",
+            "FirstName": "LUIS ALBERTO GUILLERMO",
+            "Suffix": "SILVA-SANTISTEBAN",
+            "Birthdate": "1978-11-24",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Mailing_phoneNumber__c": "5645221",
+            "BCP_Profession__c": "401",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef37"
+            },
+            "AccountId": "@AccountRef37",
+            "LastName": "BUSTAMANTE",
+            "FirstName": "MARIA DEL CARMEN",
+            "Suffix": "DE ACKERMANN",
+            "Birthdate": "1978-11-10",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "618",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef38"
+            },
+            "AccountId": "@AccountRef38",
+            "LastName": "CAMPOSANO",
+            "FirstName": "YDA FLOR",
+            "Suffix": "CORDOVA",
+            "MobilePhone": "929271155",
+            "Email": "jdante@bcp.com.pe",
+            "Birthdate": "1978-11-08",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "204",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef39"
+            },
+            "AccountId": "@AccountRef39",
+            "LastName": "CAAMANO",
+            "FirstName": "GUIDO ALBERTO",
+            "Suffix": "LA-TORRE",
+            "Birthdate": "1978-11-14",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "618",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef40"
+            },
+            "AccountId": "@AccountRef40",
+            "LastName": "JOCHAMOWITZ",
+            "FirstName": "ALBERTO JUAN",
+            "Suffix": "STAFFORD",
+            "Birthdate": "1978-11-26",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "915",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef41"
+            },
+            "AccountId": "@AccountRef41",
+            "LastName": "JOHANSON",
+            "FirstName": "VICTOR ENRIQUE",
+            "Suffix": "PINILLOS",
+            "Birthdate": "1978-11-04",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "110",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef42"
+            },
+            "AccountId": "@AccountRef42",
+            "LastName": "JOHNSON",
+            "FirstName": "WENDY SUE",
+            "Suffix": "DE SERKOVIC",
+            "Birthdate": "1959-07-10",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "202",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef43"
+            },
+            "AccountId": "@AccountRef43",
+            "LastName": "JUSTO",
+            "FirstName": "ANA CECILIA",
+            "Suffix": "COLOMA",
+            "Birthdate": "1978-11-18",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "412",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef44"
+            },
+            "AccountId": "@AccountRef44",
+            "LastName": "KOHATSU",
+            "FirstName": "ELIZABETH",
+            "Suffix": "HIGA",
+            "Birthdate": "1978-11-05",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "410",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef45"
+            },
+            "AccountId": "@AccountRef45",
+            "LastName": "KAMISATO",
+            "FirstName": "LUZMILA",
+            "Suffix": "NAKA",
+            "Birthdate": "1978-11-16",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "618",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef46"
+            },
+            "AccountId": "@AccountRef46",
+            "LastName": "KOMORI",
+            "FirstName": "MARCOS JAVIER",
+            "Suffix": "SANCHEZ",
+            "Birthdate": "1978-11-17",
+            "Description": "Prueba - Tarjetas",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "101",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef47"
+            },
+            "AccountId": "@AccountRef47",
+            "LastName": "ABENSUR",
+            "FirstName": "MIGUEL HERNAN",
+            "Suffix": "RENGIFO",
+            "Birthdate": "1982-01-01",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "811",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef48"
+            },
+            "AccountId": "@AccountRef48",
+            "LastName": "BONILLA",
+            "FirstName": "OSWALDO EDGARDO",
+            "Suffix": "SALAZAR",
+            "MobilePhone": "991664640",
+            "Email": "susibelcamayoc@bcp.com.pe",
+            "Birthdate": "1982-01-01",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "109",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef49"
+            },
+            "AccountId": "@AccountRef49",
+            "LastName": "BARCLAY",
+            "FirstName": "ALIDA",
+            "Suffix": "PIAZZA",
+            "Phone": "4655837",
+            "Email": "prueba001@mail.com",
+            "Birthdate": "1961-03-29",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "412",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef50"
+            },
+            "AccountId": "@AccountRef50",
+            "LastName": "ZNYYY",
+            "FirstName": "MAVI MARILY",
+            "Suffix": "DE-MARTINEZ",
+            "Birthdate": "1984-12-04",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "412",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef51"
+            },
+            "AccountId": "@AccountRef51",
+            "LastName": "MASIAS",
+            "FirstName": "JORGE DAVID",
+            "Suffix": "AIMINI",
+            "Email": "s63414@credito.bcp.com.pe",
+            "Birthdate": "1978-11-22",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "618",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef52"
+            },
+            "AccountId": "@AccountRef52",
+            "LastName": "CANEPA",
+            "FirstName": "MARCO PIPPO",
+            "Suffix": "SOLARI",
+            "Birthdate": "1978-11-16",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "412",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef53"
+            },
+            "AccountId": "@AccountRef53",
+            "LastName": "FIGUEROLA",
+            "FirstName": "FAUSTA",
+            "Suffix": "DE PEREZ-CANETTO",
+            "Birthdate": "1926-05-19",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "999",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef54"
+            },
+            "AccountId": "@AccountRef54",
+            "LastName": "CHAVEZ",
+            "FirstName": "JAIME GUILLERMO",
+            "Suffix": "GUEVARA",
+            "Birthdate": "1978-11-26",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef55"
+            },
+            "AccountId": "@AccountRef55",
+            "LastName": "CHAVEZ",
+            "FirstName": "DUILIO DIMAS.",
+            "Suffix": "HUERTAS",
+            "Birthdate": "1978-11-28",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef56"
+            },
+            "AccountId": "@AccountRef56",
+            "LastName": "CHAVEZ",
+            "FirstName": "SEGUNDO",
+            "Suffix": "SAYAVERDE",
+            "MobilePhone": "988888777",
+            "Email": "lbecerre@bcp.com.pe",
+            "Birthdate": "1978-11-26",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef57"
+            },
+            "AccountId": "@AccountRef57",
+            "LastName": "ALBALA",
+            "FirstName": "ELEAZAR",
+            "Suffix": "DA-SILVA",
+            "Birthdate": "1978-11-13",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "401",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef58"
+            },
+            "AccountId": "@AccountRef58",
+            "LastName": "ALDON",
+            "FirstName": "GIOVANA",
+            "Suffix": "DORTRAIT",
+            "Birthdate": "1961-01-17",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "412",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef59"
+            },
+            "AccountId": "@AccountRef59",
+            "LastName": "ALFAGEME",
+            "FirstName": "LUIS ENRIQUE",
+            "Suffix": "CERDENA",
+            "Birthdate": "1949-01-20",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "999",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef60"
+            },
+            "AccountId": "@AccountRef60",
+            "LastName": "ALFONSO",
+            "FirstName": "JOSE LISTZ",
+            "Suffix": "GARCIA",
+            "Birthdate": "1949-05-06",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "219",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef61"
+            },
+            "AccountId": "@AccountRef61",
+            "LastName": "ALEGRE",
+            "FirstName": "WILLIAM TELESFORO",
+            "Suffix": "LEON",
+            "Birthdate": "1963-05-15",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "305",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef62"
+            },
+            "AccountId": "@AccountRef62",
+            "LastName": "LEON",
+            "FirstName": "HUMBERTO WILFREDO",
+            "Suffix": "CABALLERO",
+            "Birthdate": "1960-01-18",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "618",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef63"
+            },
+            "AccountId": "@AccountRef63",
+            "LastName": "BORJA",
+            "FirstName": "ROSARIO",
+            "Suffix": "MOSQUEIRA",
+            "MobilePhone": "954078075",
+            "Email": "joliveraz@bcp.com.pe",
+            "Birthdate": "1978-11-24",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "412",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef64"
+            },
+            "AccountId": "@AccountRef64",
+            "LastName": "ULLOA",
+            "FirstName": "GARY GLENN",
+            "Suffix": "MILLA",
+            "Birthdate": "1978-11-03",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "223",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef65"
+            },
+            "AccountId": "@AccountRef65",
+            "LastName": "BARREDA",
+            "FirstName": "ALFREDO",
+            "Suffix": "BEBIN",
+            "Birthdate": "1978-11-14",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "610",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef66"
+            },
+            "AccountId": "@AccountRef66",
+            "LastName": "BARRENECHEA",
+            "FirstName": "ALFREDO RICARDO",
+            "Suffix": "HINOSTROZA",
+            "Birthdate": "1978-11-26",
+            "Description": "Prueba - Tarjetas",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "412",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef67"
+            },
+            "AccountId": "@AccountRef67",
+            "LastName": "BARRANTES",
+            "FirstName": "MARIO CESAR",
+            "Suffix": "VERA",
+            "Birthdate": "1978-11-02",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "403",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef68"
+            },
+            "AccountId": "@AccountRef68",
+            "LastName": "BAUER",
+            "FirstName": "BRIGITTE MARIELLE",
+            "Suffix": "SEGURA",
+            "Birthdate": "1978-11-06",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "618",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef69"
+            },
+            "AccountId": "@AccountRef69",
+            "LastName": "BUSH",
+            "FirstName": "WILLY MARTIN",
+            "Suffix": "MARINO",
+            "Birthdate": "1978-11-30",
+            "Description": "Prueba - Tarjetas",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "412",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef70"
+            },
+            "AccountId": "@AccountRef70",
+            "LastName": "CARRION",
+            "FirstName": "GUILLERMO ACIDALIO",
+            "Suffix": "ORTIZ",
+            "Birthdate": "1948-03-12",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "100",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef71"
+            },
+            "AccountId": "@AccountRef71",
+            "LastName": "CASANOVA",
+            "FirstName": "FORTUNATO",
+            "Suffix": "ALBAN",
+            "Birthdate": "1978-11-25",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "403",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef72"
+            },
+            "AccountId": "@AccountRef72",
+            "LastName": "CARRILLO",
+            "FirstName": "VICTOR GRACIANO",
+            "Suffix": "BRANEZ",
+            "Birthdate": "1978-11-30",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef73"
+            },
+            "AccountId": "@AccountRef73",
+            "LastName": "CISNEROS",
+            "FirstName": "JAIME JOSE",
+            "Suffix": "VELARDE",
+            "Birthdate": "1978-11-27",
+            "Description": "CREDITO PERSONAL, VENTA",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "100",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef74"
+            },
+            "AccountId": "@AccountRef74",
+            "LastName": "CESPEDES",
+            "FirstName": "CARLOS AURELIO",
+            "Suffix": "PASTOR",
+            "Birthdate": "1978-11-30",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "412",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef75"
+            },
+            "AccountId": "@AccountRef75",
+            "LastName": "LINDLEY",
+            "FirstName": "BEATRIZ MARLENY",
+            "Suffix": "CLAUSEN",
+            "Birthdate": "1964-06-13",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "410",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef76"
+            },
+            "AccountId": "@AccountRef76",
+            "LastName": "LEON",
+            "FirstName": "SEBASTIAN",
+            "Suffix": "LEON",
+            "Birthdate": "1978-11-28",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "618",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef77"
+            },
+            "AccountId": "@AccountRef77",
+            "LastName": "ELIAS",
+            "FirstName": "ALBERTO",
+            "Suffix": "CONTERNO",
+            "Birthdate": "1965-02-24",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "412",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef78"
+            },
+            "AccountId": "@AccountRef78",
+            "LastName": "ELIAS",
+            "FirstName": "GERMAN",
+            "Suffix": "PLAZA",
+            "Birthdate": "1978-11-10",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "900",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef79"
+            },
+            "AccountId": "@AccountRef79",
+            "LastName": "OLIVARES",
+            "FirstName": "LUCY NANCY",
+            "Suffix": "MARCOS",
+            "Birthdate": "1959-10-31",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "209",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef80"
+            },
+            "AccountId": "@AccountRef80",
+            "LastName": "ALVA",
+            "FirstName": "AGUSTIN FERNANDO",
+            "Suffix": "GAMONAL",
+            "Birthdate": "1978-11-10",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "999",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef81"
+            },
+            "AccountId": "@AccountRef81",
+            "LastName": "ABAD",
+            "FirstName": "ROBERTO ARMANDO",
+            "Suffix": "BARREDO",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef82"
+            },
+            "AccountId": "@AccountRef82",
+            "LastName": "BALDI",
+            "FirstName": "RODOLFO ORESTE",
+            "Suffix": "BURGA",
+            "Description": "UPGRADE TC",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef83"
+            },
+            "AccountId": "@AccountRef83",
+            "LastName": "BARRERA",
+            "FirstName": "CESAR ANTONIO",
+            "Suffix": "BAZAN",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef84"
+            },
+            "AccountId": "@AccountRef84",
+            "LastName": "BERAUN",
+            "FirstName": "LILIAN IRMA",
+            "Suffix": "OCAMPO",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef85"
+            },
+            "AccountId": "@AccountRef85",
+            "LastName": "CASTILLO",
+            "FirstName": "JOSE CARLOS",
+            "Suffix": "OSTOLAZA",
+            "Birthdate": "1978-11-20",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "999",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef86"
+            },
+            "AccountId": "@AccountRef86",
+            "LastName": "CASTANEDA",
+            "FirstName": "FERNANDO",
+            "Suffix": "CELIS",
+            "Birthdate": "1978-11-24",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "707",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef87"
+            },
+            "AccountId": "@AccountRef87",
+            "LastName": "CENTURION",
+            "FirstName": "FERNANDO",
+            "Suffix": "RIVAS",
+            "Birthdate": "1978-11-26",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "412",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef88"
+            },
+            "AccountId": "@AccountRef88",
+            "LastName": "CASTILLO",
+            "FirstName": "NELLY",
+            "Suffix": "HUAPAYA",
+            "Birthdate": "1978-11-04",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "410",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef89"
+            },
+            "AccountId": "@AccountRef89",
+            "LastName": "DAVILA",
+            "FirstName": "ANA MARIA",
+            "Suffix": "BAZAN",
+            "Birthdate": "1978-11-14",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef90"
+            },
+            "AccountId": "@AccountRef90",
+            "LastName": "CARO",
+            "FirstName": "LUIS JOSE",
+            "Suffix": "ICAZA",
+            "Birthdate": "1964-03-20",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "412",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef91"
+            },
+            "AccountId": "@AccountRef91",
+            "LastName": "CARDENAS",
+            "FirstName": "ELIAS",
+            "Suffix": "CASTANEDA",
+            "Birthdate": "1978-11-04",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "618",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef92"
+            },
+            "AccountId": "@AccountRef92",
+            "LastName": "CREMER",
+            "FirstName": "RODOLFO",
+            "Suffix": "NICOLI",
+            "Birthdate": "1978-11-06",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "618",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef93"
+            },
+            "AccountId": "@AccountRef93",
+            "LastName": "CARPIO",
+            "FirstName": "JOSE JULIO",
+            "Suffix": "NOLES",
+            "Birthdate": "1978-11-18",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "403",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef94"
+            },
+            "AccountId": "@AccountRef94",
+            "LastName": "CORNEJO",
+            "FirstName": "MARTHA EMILIA ANGELA",
+            "Suffix": "PORTOCARRERO",
+            "Birthdate": "1978-11-21",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "412",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef95"
+            },
+            "AccountId": "@AccountRef95",
+            "LastName": "CORRALES",
+            "FirstName": "MARIO AMADO",
+            "Suffix": "BUSTOS",
+            "MobilePhone": "999999999",
+            "Email": "aneyra@bcp.com.pe",
+            "Birthdate": "1961-07-21",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "209",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef96"
+            },
+            "AccountId": "@AccountRef96",
+            "LastName": "CARRILLO",
+            "FirstName": "JESUS",
+            "Suffix": "CHAMANA",
+            "Birthdate": "1978-11-01",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "707",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef97"
+            },
+            "AccountId": "@AccountRef97",
+            "LastName": "CORRALES",
+            "FirstName": "ELARD EMILIO",
+            "Suffix": "ZEVALLOS",
+            "Birthdate": "1948-04-05",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "405",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef98"
+            },
+            "AccountId": "@AccountRef98",
+            "LastName": "CASTILLO",
+            "FirstName": "MAXIMILIANO JOSE",
+            "Suffix": "GOMEZ",
+            "Birthdate": "1978-11-29",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "109",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef99"
+            },
+            "AccountId": "@AccountRef99",
+            "LastName": "COLLAZOS",
+            "FirstName": "FLUVENCIO FILOMENO",
+            "Suffix": "SANCHEZ",
+            "Birthdate": "1978-11-23",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "403",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef100"
+            },
+            "AccountId": "@AccountRef100",
+            "LastName": "CULTRERA",
+            "FirstName": "CORRADO",
+            "Suffix": "PILATO",
+            "Birthdate": "1978-11-26",
+            "FinServ__FaxVerified__c": false,
+            "FinServ__HomePhoneVerified__c": false,
+            "BCP_Profession__c": "412",
+            "BCP_LoyaltySurvey__c": false,
+            "BCP_MassiveEvents__c": false,
+            "BCP_MassiveGifts__c": false,
+            "BCP_TopEvents__c": false,
+            "BCP_TopGifts__c": false,
+            "BCP_IsConverted__c": false
+        }
+    ]
+}

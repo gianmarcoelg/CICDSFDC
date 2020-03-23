@@ -1,0 +1,1413 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "FinServ__SourceSystemId__c": "00152150",
+            "BCP_IDC__c": "088016151",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08801615",
+            "LastName": "GOYCOCHEA",
+            "FirstName": "ARMANDO EDILBERTO",
+            "Suffix": "OBLITAS",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "FinServ__SourceSystemId__c": "00110730",
+            "BCP_IDC__c": "082107931",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08210793",
+            "LastName": "FLORES",
+            "FirstName": "CESAR AUGUSTO",
+            "Suffix": "CAYO",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "FinServ__SourceSystemId__c": "00113225",
+            "BCP_IDC__c": "071805921",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07180592",
+            "LastName": "FLORES",
+            "FirstName": "LUIS ALEJANDRO",
+            "Suffix": "VILLON",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef4"
+            },
+            "FinServ__SourceSystemId__c": "00152705",
+            "BCP_IDC__c": "082379861",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08237986",
+            "LastName": "GUZMAN",
+            "FirstName": "MIGUEL JOSE",
+            "Suffix": "AHUMADA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef5"
+            },
+            "FinServ__SourceSystemId__c": "00156030",
+            "BCP_IDC__c": "292361021",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "29236102",
+            "LastName": "FUENTES",
+            "FirstName": "SONIA OFELIA",
+            "Suffix": "DE HALLENBECK",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef6"
+            },
+            "FinServ__SourceSystemId__c": "00130530",
+            "BCP_IDC__c": "266258241",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "26625824",
+            "LastName": "GAMBOA",
+            "FirstName": "CARLOS ALFREDO",
+            "Suffix": "VELASQUEZ",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef7"
+            },
+            "FinServ__SourceSystemId__c": "00173215",
+            "BCP_IDC__c": "080666231",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08066623",
+            "LastName": "JUAREZ",
+            "FirstName": "GUMERCINDO ORLANDO",
+            "Suffix": "ALVAREZ",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef8"
+            },
+            "FinServ__SourceSystemId__c": "00139491",
+            "BCP_IDC__c": "282090621",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "28209062",
+            "LastName": "GARCIA-GODOS",
+            "FirstName": "MERCEDES",
+            "Suffix": "VDA.DE CHACON",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef9"
+            },
+            "FinServ__SourceSystemId__c": "00158624",
+            "BCP_IDC__c": "091376081",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "09137608",
+            "LastName": "HUAMAN",
+            "FirstName": "URBANO GUALBERTO",
+            "Suffix": "RAMIREZ",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef10"
+            },
+            "FinServ__SourceSystemId__c": "00140029",
+            "BCP_IDC__c": "000994843",
+            "BCP_DocumentType__c": "3",
+            "BCP_DocumentNumber__c": "00099484",
+            "LastName": "GIARDINO",
+            "FirstName": "CARLOS",
+            "Suffix": "ROMERO",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef11"
+            },
+            "FinServ__SourceSystemId__c": "00037162",
+            "BCP_IDC__c": "082515071",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08251507",
+            "LastName": "CHING",
+            "FirstName": "JULIA ROSA",
+            "Suffix": "WONG",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef12"
+            },
+            "FinServ__SourceSystemId__c": "00122027",
+            "BCP_IDC__c": "090731821",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "09073182",
+            "LastName": "GAUDRY",
+            "FirstName": "HECTOR EDUARDO",
+            "Suffix": "SANCHEZ",
+            "Description": "Prueba - Tarjetas",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef13"
+            },
+            "FinServ__SourceSystemId__c": "00124179",
+            "BCP_IDC__c": "101362151",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "10136215",
+            "LastName": "GALLIANI",
+            "FirstName": "MANUEL",
+            "Suffix": "DONAYRE",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef14"
+            },
+            "FinServ__SourceSystemId__c": "00125972",
+            "BCP_IDC__c": "082694521",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08269452",
+            "LastName": "GALARZA",
+            "FirstName": "LIZARDO JORGE",
+            "Suffix": "COTERA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef15"
+            },
+            "FinServ__SourceSystemId__c": "00129816",
+            "BCP_IDC__c": "062251541",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "06225154",
+            "LastName": "GAMARRA",
+            "FirstName": "JOSE ANTONIO",
+            "Suffix": "RIOJAS",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef16"
+            },
+            "FinServ__SourceSystemId__c": "00131341",
+            "BCP_IDC__c": "091369381",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "09136938",
+            "LastName": "GOMEZ",
+            "FirstName": "WILFREDO GILBERTO",
+            "Suffix": "RIOS",
+            "Description": "Prueba - Tarjetas",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef17"
+            },
+            "FinServ__SourceSystemId__c": "00036606",
+            "BCP_IDC__c": "000837233",
+            "BCP_DocumentType__c": "3",
+            "BCP_DocumentNumber__c": "00083723",
+            "LastName": "CHANG",
+            "FirstName": "CESAR",
+            "Suffix": "LAI",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef18"
+            },
+            "FinServ__SourceSystemId__c": "00282484",
+            "BCP_IDC__c": "224623991",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "22462399",
+            "LastName": "PAJUELO",
+            "FirstName": "MANUEL FORTUNATO",
+            "Suffix": "FLORES",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef19"
+            },
+            "FinServ__SourceSystemId__c": "00286467",
+            "BCP_IDC__c": "082656161",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08265616",
+            "LastName": "PALOMINO",
+            "FirstName": "MARIO RUBEN",
+            "Suffix": "SULCA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef20"
+            },
+            "FinServ__SourceSystemId__c": "00037157",
+            "BCP_IDC__c": "066302631",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "06630263",
+            "LastName": "CHIANG",
+            "FirstName": "ALBERTO DAVID",
+            "Suffix": "WONG",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef21"
+            },
+            "FinServ__SourceSystemId__c": "00293094",
+            "BCP_IDC__c": "328656731",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "32865673",
+            "LastName": "APONTE",
+            "FirstName": "LUIS ALBERTO",
+            "Suffix": "SANTISTEBAN",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef22"
+            },
+            "FinServ__SourceSystemId__c": "00300947",
+            "BCP_IDC__c": "092760771",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "09276077",
+            "LastName": "PRATO",
+            "FirstName": "RENZO ALBERTO",
+            "Suffix": "ARCE",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef23"
+            },
+            "FinServ__SourceSystemId__c": "00040064",
+            "BCP_IDC__c": "065443641",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "06544364",
+            "LastName": "CHIAPPORI",
+            "FirstName": "CARLOS ANDRES ENRIQUE",
+            "Suffix": "SAMENGO",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef24"
+            },
+            "FinServ__SourceSystemId__c": "00158889",
+            "BCP_IDC__c": "178145261",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "17814526",
+            "LastName": "HUAMAN",
+            "FirstName": "JOSE ROBERTO",
+            "Suffix": "TUESTA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef25"
+            },
+            "FinServ__SourceSystemId__c": "00001563",
+            "BCP_IDC__c": "000212484",
+            "BCP_DocumentType__c": "4",
+            "BCP_DocumentNumber__c": "00021248",
+            "LastName": "RODRIGUEZ",
+            "FirstName": "MARIA PAZ",
+            "Suffix": "SALAZAR",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef26"
+            },
+            "FinServ__SourceSystemId__c": "00001754",
+            "BCP_IDC__c": "103749474",
+            "BCP_DocumentType__c": "4",
+            "BCP_DocumentNumber__c": "10374947",
+            "LastName": "BEDOYA",
+            "FirstName": "GERARDO ENRIQUE",
+            "Suffix": "REYES",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef27"
+            },
+            "FinServ__SourceSystemId__c": "00002107",
+            "BCP_IDC__c": "104739061",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "10473906",
+            "LastName": "ROMERO",
+            "FirstName": "RAUL",
+            "Suffix": "SOLIS",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef28"
+            },
+            "FinServ__SourceSystemId__c": "00002189",
+            "BCP_IDC__c": "073912911",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07391291",
+            "LastName": "BOGGIANO",
+            "FirstName": "OSCAR GUILLERMO",
+            "Suffix": "GAGO",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef29"
+            },
+            "FinServ__SourceSystemId__c": "00003426",
+            "BCP_IDC__c": "082236331",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08223633",
+            "LastName": "BELAUNDE",
+            "FirstName": "CESAR FELIX",
+            "Suffix": "DE CARDENAS",
+            "Description": "Prueba - Tarjetas",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef30"
+            },
+            "FinServ__SourceSystemId__c": "00004666",
+            "BCP_IDC__c": "292048041",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "29204804",
+            "LastName": "BELLIDO",
+            "FirstName": "ALICIA",
+            "Suffix": "PRADO",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef31"
+            },
+            "FinServ__SourceSystemId__c": "00004847",
+            "BCP_IDC__c": "073578401",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07357840",
+            "LastName": "SEVILLO",
+            "FirstName": "SERAPIO",
+            "Suffix": "YAN",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef32"
+            },
+            "FinServ__SourceSystemId__c": "00005005",
+            "BCP_IDC__c": "078387301",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07838730",
+            "LastName": "BALLON",
+            "FirstName": "ERNESTO VICTOR",
+            "Suffix": "MALDONADO",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef33"
+            },
+            "FinServ__SourceSystemId__c": "00175749",
+            "BCP_IDC__c": "079422101",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07942210",
+            "LastName": "KOHATSU",
+            "FirstName": "ELIZABETH",
+            "Suffix": "HIGA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef34"
+            },
+            "FinServ__SourceSystemId__c": "00160051",
+            "BCP_IDC__c": "178572671",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "17857267",
+            "LastName": "HONORIO",
+            "FirstName": "JOSE EUSEBIO",
+            "Suffix": "VILLARREAL",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef35"
+            },
+            "FinServ__SourceSystemId__c": "00189158",
+            "BCP_IDC__c": "082602041",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08260204",
+            "LastName": "LUNA",
+            "FirstName": "JOSE ANTONIO",
+            "Suffix": "BAZO",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef36"
+            },
+            "FinServ__SourceSystemId__c": "00198259",
+            "BCP_IDC__c": "292628431",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "29262843",
+            "LastName": "LUQUE",
+            "FirstName": "CARMEN",
+            "Suffix": "VDA.DE MEJIA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef37"
+            },
+            "FinServ__SourceSystemId__c": "00169252",
+            "BCP_IDC__c": "077711181",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07771118",
+            "LastName": "JOCHAMOWITZ",
+            "FirstName": "ALBERTO JUAN",
+            "Suffix": "STAFFORD",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef38"
+            },
+            "FinServ__SourceSystemId__c": "00169809",
+            "BCP_IDC__c": "062362281",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "06236228",
+            "LastName": "JOHANSON",
+            "FirstName": "VICTOR ENRIQUE",
+            "Suffix": "PINILLOS",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef39"
+            },
+            "FinServ__SourceSystemId__c": "00042312",
+            "BCP_IDC__c": "081875691",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08187569",
+            "LastName": "ECHEVARRIA",
+            "FirstName": "LUIS ALBERTO GUILLERMO",
+            "Suffix": "SILVA-SANTISTEBAN",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef40"
+            },
+            "FinServ__SourceSystemId__c": "00043948",
+            "BCP_IDC__c": "308491221",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "30849122",
+            "LastName": "BUSTAMANTE",
+            "FirstName": "MARIA DEL CARMEN",
+            "Suffix": "DE ACKERMANN",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef41"
+            },
+            "FinServ__SourceSystemId__c": "00049663",
+            "BCP_IDC__c": "198354221",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "19835422",
+            "LastName": "CAMPOSANO",
+            "FirstName": "YDA FLOR",
+            "Suffix": "CORDOVA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef42"
+            },
+            "FinServ__SourceSystemId__c": "00050308",
+            "BCP_IDC__c": "099930181",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "09993018",
+            "LastName": "CAAMANO",
+            "FirstName": "GUIDO ALBERTO",
+            "Suffix": "LA-TORRE",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef43"
+            },
+            "FinServ__SourceSystemId__c": "00169863",
+            "BCP_IDC__c": "001000613",
+            "BCP_DocumentType__c": "3",
+            "BCP_DocumentNumber__c": "00100061",
+            "LastName": "JOHNSON",
+            "FirstName": "WENDY SUE",
+            "Suffix": "DE SERKOVIC",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef44"
+            },
+            "FinServ__SourceSystemId__c": "00174548",
+            "BCP_IDC__c": "091371321",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "09137132",
+            "LastName": "JUSTO",
+            "FirstName": "ANA CECILIA",
+            "Suffix": "COLOMA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef45"
+            },
+            "FinServ__SourceSystemId__c": "00011838",
+            "BCP_IDC__c": "060246223",
+            "BCP_DocumentType__c": "3",
+            "BCP_DocumentNumber__c": "06024622",
+            "LastName": "BARCLAY",
+            "FirstName": "ALIDA",
+            "Suffix": "PIAZZA",
+            "Phone": "4655837",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef46"
+            },
+            "FinServ__SourceSystemId__c": "00012407",
+            "BCP_IDC__c": "100054852",
+            "BCP_DocumentType__c": "2",
+            "BCP_DocumentNumber__c": "10005485",
+            "LastName": "ZNYYY",
+            "FirstName": "MAVI MARILY",
+            "Suffix": "DE-MARTINEZ",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef47"
+            },
+            "FinServ__SourceSystemId__c": "00014733",
+            "BCP_IDC__c": "066255581",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "06625558",
+            "LastName": "MASIAS",
+            "FirstName": "JORGE DAVID",
+            "Suffix": "AIMINI",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef48"
+            },
+            "FinServ__SourceSystemId__c": "00033934",
+            "BCP_IDC__c": "293212601",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "29321260",
+            "LastName": "CHAVEZ",
+            "FirstName": "DUILIO DIMAS.",
+            "Suffix": "HUERTAS",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef49"
+            },
+            "FinServ__SourceSystemId__c": "00176186",
+            "BCP_IDC__c": "082082251",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08208225",
+            "LastName": "KAMISATO",
+            "FirstName": "LUZMILA",
+            "Suffix": "NAKA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef50"
+            },
+            "FinServ__SourceSystemId__c": "00176188",
+            "BCP_IDC__c": "087672121",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08767212",
+            "LastName": "KOMORI",
+            "FirstName": "MARCOS JAVIER",
+            "Suffix": "SANCHEZ",
+            "Description": "Prueba - Tarjetas",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef51"
+            },
+            "FinServ__SourceSystemId__c": "00009070",
+            "BCP_IDC__c": "070162401",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07016240",
+            "LastName": "ABENSUR",
+            "FirstName": "MIGUEL HERNAN",
+            "Suffix": "RENGIFO",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef52"
+            },
+            "FinServ__SourceSystemId__c": "00009229",
+            "BCP_IDC__c": "079395241",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07939524",
+            "LastName": "BONILLA",
+            "FirstName": "OSWALDO EDGARDO",
+            "Suffix": "SALAZAR",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef53"
+            },
+            "FinServ__SourceSystemId__c": "00056430",
+            "BCP_IDC__c": "087768721",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08776872",
+            "LastName": "CANEPA",
+            "FirstName": "MARCO PIPPO",
+            "Suffix": "SOLARI",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef54"
+            },
+            "FinServ__SourceSystemId__c": "00057983",
+            "BCP_IDC__c": "077756261",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07775626",
+            "LastName": "FIGUEROLA",
+            "FirstName": "FAUSTA",
+            "Suffix": "DE PEREZ-CANETTO",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef55"
+            },
+            "FinServ__SourceSystemId__c": "00033719",
+            "BCP_IDC__c": "075546861",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07554686",
+            "LastName": "CHAVEZ",
+            "FirstName": "JAIME GUILLERMO",
+            "Suffix": "GUEVARA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef56"
+            },
+            "FinServ__SourceSystemId__c": "00177633",
+            "BCP_IDC__c": "078299961",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07829996",
+            "LastName": "ALBALA",
+            "FirstName": "ELEAZAR",
+            "Suffix": "DA-SILVA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef57"
+            },
+            "FinServ__SourceSystemId__c": "00015068",
+            "BCP_IDC__c": "076136191",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07613619",
+            "LastName": "BORJA",
+            "FirstName": "ROSARIO",
+            "Suffix": "MOSQUEIRA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef58"
+            },
+            "FinServ__SourceSystemId__c": "00015655",
+            "BCP_IDC__c": "081981291",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08198129",
+            "LastName": "ULLOA",
+            "FirstName": "GARY GLENN",
+            "Suffix": "MILLA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef59"
+            },
+            "FinServ__SourceSystemId__c": "00016408",
+            "BCP_IDC__c": "292126461",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "29212646",
+            "LastName": "BARREDA",
+            "FirstName": "ALFREDO",
+            "Suffix": "BEBIN",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef60"
+            },
+            "FinServ__SourceSystemId__c": "00020939",
+            "BCP_IDC__c": "095336601",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "09533660",
+            "LastName": "BUSH",
+            "FirstName": "WILLY MARTIN",
+            "Suffix": "MARINO",
+            "Description": "Prueba - Tarjetas",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef61"
+            },
+            "FinServ__SourceSystemId__c": "00042436",
+            "BCP_IDC__c": "074003031",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07400303",
+            "LastName": "CHAVEZ",
+            "FirstName": "SEGUNDO",
+            "Suffix": "SAYAVERDE",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef62"
+            },
+            "FinServ__SourceSystemId__c": "00181008",
+            "BCP_IDC__c": "102184221",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "10218422",
+            "LastName": "ALDON",
+            "FirstName": "GIOVANA",
+            "Suffix": "DORTRAIT",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef63"
+            },
+            "FinServ__SourceSystemId__c": "00181567",
+            "BCP_IDC__c": "082577591",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08257759",
+            "LastName": "ALFAGEME",
+            "FirstName": "LUIS ENRIQUE",
+            "Suffix": "CERDENA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef64"
+            },
+            "FinServ__SourceSystemId__c": "00181618",
+            "BCP_IDC__c": "079026251",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07902625",
+            "LastName": "ALFONSO",
+            "FirstName": "JOSE LISTZ",
+            "Suffix": "GARCIA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef65"
+            },
+            "FinServ__SourceSystemId__c": "00182600",
+            "BCP_IDC__c": "327628901",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "32762890",
+            "LastName": "ALEGRE",
+            "FirstName": "WILLIAM TELESFORO",
+            "Suffix": "LEON",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef66"
+            },
+            "FinServ__SourceSystemId__c": "00189169",
+            "BCP_IDC__c": "089318791",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08931879",
+            "LastName": "LEON",
+            "FirstName": "HUMBERTO WILFREDO",
+            "Suffix": "CABALLERO",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef67"
+            },
+            "FinServ__SourceSystemId__c": "00017005",
+            "BCP_IDC__c": "066412491",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "06641249",
+            "LastName": "BARRENECHEA",
+            "FirstName": "ALFREDO RICARDO",
+            "Suffix": "HINOSTROZA",
+            "Description": "Prueba - Tarjetas",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef68"
+            },
+            "FinServ__SourceSystemId__c": "00019865",
+            "BCP_IDC__c": "087848471",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08784847",
+            "LastName": "BARRANTES",
+            "FirstName": "MARIO CESAR",
+            "Suffix": "VERA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef69"
+            },
+            "FinServ__SourceSystemId__c": "00020100",
+            "BCP_IDC__c": "072125131",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07212513",
+            "LastName": "BAUER",
+            "FirstName": "BRIGITTE MARIELLE",
+            "Suffix": "SEGURA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef70"
+            },
+            "FinServ__SourceSystemId__c": "00189301",
+            "BCP_IDC__c": "080162101",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08016210",
+            "LastName": "LINDLEY",
+            "FirstName": "BEATRIZ MARLENY",
+            "Suffix": "CLAUSEN",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef71"
+            },
+            "FinServ__SourceSystemId__c": "00193332",
+            "BCP_IDC__c": "256603461",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "25660346",
+            "LastName": "LEON",
+            "FirstName": "SEBASTIAN",
+            "Suffix": "LEON",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef72"
+            },
+            "FinServ__SourceSystemId__c": "00202010",
+            "BCP_IDC__c": "082361801",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08236180",
+            "LastName": "ELIAS",
+            "FirstName": "ALBERTO",
+            "Suffix": "CONTERNO",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef73"
+            },
+            "FinServ__SourceSystemId__c": "00015290",
+            "BCP_IDC__c": "060587911",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "06058791",
+            "LastName": "BERAUN",
+            "FirstName": "LILIAN IRMA",
+            "Suffix": "OCAMPO",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef74"
+            },
+            "FinServ__SourceSystemId__c": "00071124",
+            "BCP_IDC__c": "082658321",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08265832",
+            "LastName": "CARRION",
+            "FirstName": "GUILLERMO ACIDALIO",
+            "Suffix": "ORTIZ",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef75"
+            },
+            "FinServ__SourceSystemId__c": "00078560",
+            "BCP_IDC__c": "081110781",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08111078",
+            "LastName": "CASANOVA",
+            "FirstName": "FORTUNATO",
+            "Suffix": "ALBAN",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef76"
+            },
+            "FinServ__SourceSystemId__c": "00069626",
+            "BCP_IDC__c": "004848641",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "00484864",
+            "LastName": "CARRILLO",
+            "FirstName": "VICTOR GRACIANO",
+            "Suffix": "BRANEZ",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef77"
+            },
+            "FinServ__SourceSystemId__c": "00078792",
+            "BCP_IDC__c": "103229511",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "10322951",
+            "LastName": "CISNEROS",
+            "FirstName": "JAIME JOSE",
+            "Suffix": "VELARDE",
+            "Description": "CREDITO PERSONAL, VENTA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef78"
+            },
+            "FinServ__SourceSystemId__c": "00079193",
+            "BCP_IDC__c": "077427291",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07742729",
+            "LastName": "CESPEDES",
+            "FirstName": "CARLOS AURELIO",
+            "Suffix": "PASTOR",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef79"
+            },
+            "FinServ__SourceSystemId__c": "00202154",
+            "BCP_IDC__c": "077759921",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07775992",
+            "LastName": "ELIAS",
+            "FirstName": "GERMAN",
+            "Suffix": "PLAZA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef80"
+            },
+            "FinServ__SourceSystemId__c": "00204859",
+            "BCP_IDC__c": "077326771",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07732677",
+            "LastName": "OLIVARES",
+            "FirstName": "LUCY NANCY",
+            "Suffix": "MARCOS",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef81"
+            },
+            "FinServ__SourceSystemId__c": "00208706",
+            "BCP_IDC__c": "081843141",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08184314",
+            "LastName": "ALVA",
+            "FirstName": "AGUSTIN FERNANDO",
+            "Suffix": "GAMONAL",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef82"
+            },
+            "FinServ__SourceSystemId__c": "00001352",
+            "BCP_IDC__c": "077187381",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07718738",
+            "LastName": "ABAD",
+            "FirstName": "ROBERTO ARMANDO",
+            "Suffix": "BARREDO",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef83"
+            },
+            "FinServ__SourceSystemId__c": "00003180",
+            "BCP_IDC__c": "044348151",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "04434815",
+            "LastName": "BALDI",
+            "FirstName": "RODOLFO ORESTE",
+            "Suffix": "BURGA",
+            "Description": "UPGRADE TC",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef84"
+            },
+            "FinServ__SourceSystemId__c": "00011162",
+            "BCP_IDC__c": "086356491",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08635649",
+            "LastName": "BARRERA",
+            "FirstName": "CESAR ANTONIO",
+            "Suffix": "BAZAN",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef85"
+            },
+            "FinServ__SourceSystemId__c": "00080613",
+            "BCP_IDC__c": "102754391",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "10275439",
+            "LastName": "CASTILLO",
+            "FirstName": "JOSE CARLOS",
+            "Suffix": "OSTOLAZA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef86"
+            },
+            "FinServ__SourceSystemId__c": "00080947",
+            "BCP_IDC__c": "266108791",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "26610879",
+            "LastName": "CASTANEDA",
+            "FirstName": "FERNANDO",
+            "Suffix": "CELIS",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef87"
+            },
+            "FinServ__SourceSystemId__c": "00081029",
+            "BCP_IDC__c": "292379361",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "29237936",
+            "LastName": "CENTURION",
+            "FirstName": "FERNANDO",
+            "Suffix": "RIVAS",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef88"
+            },
+            "FinServ__SourceSystemId__c": "00069630",
+            "BCP_IDC__c": "293188311",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "29318831",
+            "LastName": "CORRALES",
+            "FirstName": "MARIO AMADO",
+            "Suffix": "BUSTOS",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef89"
+            },
+            "FinServ__SourceSystemId__c": "00081732",
+            "BCP_IDC__c": "061791531",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "06179153",
+            "LastName": "CASTILLO",
+            "FirstName": "NELLY",
+            "Suffix": "HUAPAYA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef90"
+            },
+            "FinServ__SourceSystemId__c": "00099679",
+            "BCP_IDC__c": "072356981",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07235698",
+            "LastName": "DAVILA",
+            "FirstName": "ANA MARIA",
+            "Suffix": "BAZAN",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef91"
+            },
+            "FinServ__SourceSystemId__c": "00062535",
+            "BCP_IDC__c": "102722491",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "10272249",
+            "LastName": "CARO",
+            "FirstName": "LUIS JOSE",
+            "Suffix": "ICAZA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef92"
+            },
+            "FinServ__SourceSystemId__c": "00062865",
+            "BCP_IDC__c": "224146451",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "22414645",
+            "LastName": "CARDENAS",
+            "FirstName": "ELIAS",
+            "Suffix": "CASTANEDA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef93"
+            },
+            "FinServ__SourceSystemId__c": "00066919",
+            "BCP_IDC__c": "088113341",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08811334",
+            "LastName": "CREMER",
+            "FirstName": "RODOLFO",
+            "Suffix": "NICOLI",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef94"
+            },
+            "FinServ__SourceSystemId__c": "00068969",
+            "BCP_IDC__c": "087659901",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08765990",
+            "LastName": "CARPIO",
+            "FirstName": "JOSE JULIO",
+            "Suffix": "NOLES",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef95"
+            },
+            "FinServ__SourceSystemId__c": "00069168",
+            "BCP_IDC__c": "087982561",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08798256",
+            "LastName": "CORNEJO",
+            "FirstName": "MARTHA EMILIA ANGELA",
+            "Suffix": "PORTOCARRERO",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef96"
+            },
+            "FinServ__SourceSystemId__c": "00048585",
+            "BCP_IDC__c": "087724611",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08772461",
+            "LastName": "CULTRERA",
+            "FirstName": "CORRADO",
+            "Suffix": "PILATO",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef97"
+            },
+            "FinServ__SourceSystemId__c": "00069689",
+            "BCP_IDC__c": "088491231",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "08849123",
+            "LastName": "CARRILLO",
+            "FirstName": "JESUS",
+            "Suffix": "CHAMANA",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef98"
+            },
+            "FinServ__SourceSystemId__c": "00075442",
+            "BCP_IDC__c": "074143591",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07414359",
+            "LastName": "CORRALES",
+            "FirstName": "ELARD EMILIO",
+            "Suffix": "ZEVALLOS",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef99"
+            },
+            "FinServ__SourceSystemId__c": "00076974",
+            "BCP_IDC__c": "079359601",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "07935960",
+            "LastName": "CASTILLO",
+            "FirstName": "MAXIMILIANO JOSE",
+            "Suffix": "GOMEZ",
+            "CurrencyIsoCode": "PEN"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef100"
+            },
+            "FinServ__SourceSystemId__c": "00048324",
+            "BCP_IDC__c": "060455651",
+            "BCP_DocumentType__c": "1",
+            "BCP_DocumentNumber__c": "06045565",
+            "LastName": "COLLAZOS",
+            "FirstName": "FLUVENCIO FILOMENO",
+            "Suffix": "SANCHEZ",
+            "CurrencyIsoCode": "PEN"
+        }
+    ]
+}
