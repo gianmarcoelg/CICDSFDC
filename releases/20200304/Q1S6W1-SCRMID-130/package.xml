@@ -3,6 +3,7 @@
 	<types>
 		<members>BCP_ClaseDePrueba01</members>
 		<members>BCP_ClaseDePrueba02</members>
+		<members>BCP_ClaseDePrueba_test</members>
 		<name>ApexClass</name>
 	</types>
 	<version>48.0</version>
