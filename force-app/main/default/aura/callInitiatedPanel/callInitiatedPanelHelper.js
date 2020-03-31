@@ -23,6 +23,10 @@ WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, THE SOFTWARE IS PROVIDED "AS I
                         var account = settings['/reqPhoneDemoSettings/reqProviderAccount'];
                         var token = settings['/reqPhoneDemoSettings/reqProviderAuthToken'];
                         var fromNumber = settings['/reqPhoneDemoSettings/reqProviderCallerNumber'];
+                        console.log('gmeg:'+providerClass);
+                        console.log('gmeg:'+account);
+                        console.log('gmeg:'+token);
+                        console.log('gmeg:'+fromNumber);
                         var toNumber = cmp.get('v.phone');
                         sforce.opencti.runApex({
                             apexClass : 'SoftphoneProviderController',

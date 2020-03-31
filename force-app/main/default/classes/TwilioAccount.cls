@@ -145,6 +145,7 @@ global class TwilioAccount extends TwilioResource.InstanceResource {
      */
     public TwilioCallList getCalls(Map<String, String> filters) {
         TwilioCallList calls = new TwilioCallList((TwilioRestClient)this.getClient(), filters);
+        system.debug('gmeg: accSid:'+this.getRequestAccountSid());
         calls.setRequestAccountSid(this.getRequestAccountSid());
         
         return calls;

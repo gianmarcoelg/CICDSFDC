@@ -42,10 +42,15 @@ public class SoftphoneProviderHelper {
       public CallResult makeCall(String account, String token, String toNumber, String fromNumber) {
           /* uncomment this code once you installed the Twilio Helper Package in your org
            * more info here: https://www.twilio.com/docs/libraries/salesforce#installation
+            gmeg ini*/
 
-
-          TwilioRestClient client = new TwilioRestClient(account, token);
-
+          
+            TwilioRestClient client = new TwilioRestClient(account, token);
+            System.debug('gmeg cliente: '+client);
+          System.debug('gmeg toNumber: '+toNumber);
+          System.debug('gmeg fromNumber: '+fromNumber);
+          //gmeg:
+          toNumber = '+51960622281';
           Map<String,String> params = new Map<String,String> {
                   'To'   => toNumber,
                   'From' => fromNumber,
@@ -54,12 +59,13 @@ public class SoftphoneProviderHelper {
           TwilioCall call = client.getAccount().getCalls().create(params);
           CallResult result = new CallResult();
           result.status = call.getStatus();
+          System.debug('gmeg result.status: '+result.status);
           return result;
 
-          */
-          CallResult result = new CallResult();
-          result.status = 'TWILIO_IS_NOT_INSTALLED';
-          return result;
+          /* gmeg fin */
+          //CallResult result = new CallResult();
+          //result.status = 'TWILIO_IS_NOT_INSTALLED';
+          //return result;
         }
     }
 
